@@ -27,6 +27,7 @@ library
   exposed-modules:
       HigherOrderFunctions
       Lib
+      Tree
   other-modules:
       Paths_LYAH
   hs-source-dirs:
