@@ -27,6 +27,7 @@ library
   exposed-modules:
       HigherOrderFunctions
       Lib
+      RPN
       Tree
   other-modules:
       Paths_LYAH
