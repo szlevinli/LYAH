@@ -1,6 +1,8 @@
 {
     "words": [
+        "concat",
         "foldl",
-        "foldr"
+        "foldr",
+        "heathrow"
     ]
 }

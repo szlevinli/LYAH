@@ -27,6 +27,7 @@ library
   exposed-modules:
       HigherOrderFunctions
       Lib
+      Road
       RPN
       Tree
   other-modules:
