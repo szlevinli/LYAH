@@ -1,8 +1,12 @@
 {
-    "words": [
-        "concat",
-        "foldl",
-        "foldr",
-        "heathrow"
-    ]
+  "words": [
+    "concat",
+    "foldl",
+    "foldr",
+    "heathrow",
+    "mult"
+  ],
+  "ignorePaths": [
+    "package.yaml"
+  ]
 }
