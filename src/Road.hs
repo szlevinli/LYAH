@@ -1,6 +1,10 @@
 {-# OPTIONS_GHC -Wno-incomplete-uni-patterns #-}
 
-module Road where
+module Road
+  ( main,
+    heathrowToLondon,
+  )
+where
 
 import Data.List ()
 
