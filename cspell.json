@@ -4,7 +4,9 @@
     "foldl",
     "foldr",
     "heathrow",
-    "mult"
+    "mempty",
+    "mult",
+    "Semigroup"
   ],
   "ignorePaths": [
     "package.yaml"
