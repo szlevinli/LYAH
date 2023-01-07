@@ -4,6 +4,7 @@
     "foldl",
     "foldr",
     "heathrow",
+    "Manip",
     "mempty",
     "mult",
     "Semigroup"
