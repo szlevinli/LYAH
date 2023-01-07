@@ -1,13 +1,16 @@
 {
   "words": [
+    "boop",
     "concat",
+    "doop",
     "foldl",
     "foldr",
     "heathrow",
     "Manip",
     "mempty",
     "mult",
-    "Semigroup"
+    "Semigroup",
+    "tupled"
   ],
   "ignorePaths": [
     "package.yaml"
