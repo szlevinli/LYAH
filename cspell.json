@@ -6,11 +6,14 @@
     "foldl",
     "foldr",
     "heathrow",
+    "HLINT",
     "Manip",
+    "mappend",
     "mempty",
     "mult",
     "Semigroup",
-    "tupled"
+    "tupled",
+    "unrecognised"
   ],
   "ignorePaths": [
     "package.yaml"

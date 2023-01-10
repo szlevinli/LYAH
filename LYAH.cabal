@@ -28,6 +28,7 @@ library
       DList
       HigherOrderFunctions
       Lib
+      MonadicFun
       MReader
       MState
       MWriter
