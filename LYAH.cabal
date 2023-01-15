@@ -35,6 +35,7 @@ library
       Road
       RPN
       Tree
+      Zippers
   other-modules:
       Paths_LYAH
   hs-source-dirs:
